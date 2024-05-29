@@ -5,4 +5,4 @@ Código em Java que recebe pelo terminal:
 - Saldo
 E devolve essas informações em forma de texto.
 
-Futuro ajuste: permitir o usuário a fazer saques e depósitos pelo terminal.
+Versão atual: permitir o usuário a fazer saques e depósitos pelo terminal.
